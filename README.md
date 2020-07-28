@@ -1,29 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# RoboFriends App
+
+A web app where you can filter through different robots. Try the [live demo](https://soundcloud-ngrx.herokuapp.com).
 
 ![Image of UI](https://github.com/ConnerCoding/robofriends/blob/master/src/images/project.png)
-
-# SoundCloud NgRx
-
-A basic SoundCloud API client built with Angular and NgRx. Try the [live demo](https://soundcloud-ngrx.herokuapp.com).
-
-![screenshot](http://i.imgur.com/A1Vlpi2.png)
 
 
 Stack
 -----
 
-- Angular with AOT compilation
-- NgRx Effects
-- NgRx Store
+- React
+- Redux
+- Tachyons
 - RxJS
 - Immutable
 - Ava
-- Circle CI
-- Express
-- Heroku
-- Karma
-- Typescript
-- Webpack
+
 
 
 Quick Start
