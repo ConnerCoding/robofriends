@@ -1,7 +1,7 @@
 
 # RoboFriends App
 
-A web app where you can filter through different robots. Try the [live demo](https://soundcloud-ngrx.herokuapp.com).
+A web app where you can filter through different robots. Try the [live demo](https://connercoding.github.io/robofriends/).
 
 ![Image of UI](https://github.com/ConnerCoding/robofriends/blob/master/src/images/project.png)
 
