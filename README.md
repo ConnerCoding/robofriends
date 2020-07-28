@@ -12,9 +12,6 @@ Stack
 - React
 - Redux
 - Tachyons
-- RxJS
-- Immutable
-- Ava
 
 
 
